@@ -31,6 +31,8 @@ public class Sistema {
         else if (operacao == 4){
             System.out.println(math.multiplicacao());
         }
+        else {
+            System.out.printl("Escolha invalida, por favor escolha uma das opções acima")
+            }
         }
-
     }
