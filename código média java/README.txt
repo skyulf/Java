@@ -1,0 +1,1 @@
+Código que calcula a média com base nas notas de um aluno e retorna sua situação, sendo ela: Aprovado, Reprovado e na Final!

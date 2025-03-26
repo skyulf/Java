@@ -1,0 +1,1 @@
+Código para executar uma calculadora que solicita 2 números ao usuário e o permite escolher entre as operações de soma, subtração, divisão e multiplicação!
